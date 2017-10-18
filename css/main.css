@@ -1,0 +1,43 @@
+/* parte 1  */
+div {
+    background-color: #FF8000;
+    box-sizing: border-box;
+    display: block;
+    margin: 5px;
+    height: 100px;
+}
+.segundo{
+    background-color: #151515;
+    color: white;
+}
+
+
+
+.part4 .orange {
+    background-color: rgba(230, 167, 26, 0.95);
+    width: 60px;
+    height: 20px;
+    margin: 15px 30px;
+    padding: 14px 20px;
+    display: inline-block;
+}
+
+.part4 .orange1 {
+    background-color: rgba(230, 167, 26, 0.95);
+    width: 150px;
+    height: 20px;
+    margin: 15px 30px;
+    padding: 14px 20px;
+    display: inline-block;
+  }
+
+
+.part4 .black  {
+  background-color: #1f1a1a;
+  width: 12px;
+  height: 20px;
+  margin: 15px 5px;
+  padding: 14px 20px;
+  display: inline-block;
+  color:rgb(222, 233, 232);
+}
